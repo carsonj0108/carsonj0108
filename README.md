@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carsonj0108
+- 👋 Hi, I’m @iJonezi
 - 👀 I’m interested in pursuing a career in Software Engineering
 - 🌱 I’m currently learning Python, COMPTia A+, and enrolled at Western Governers University for my B.S. in Software Development
 - 💞️ I’m looking to collaborate on any projects that will help me build my foundation for basics and take me further into my future goals
