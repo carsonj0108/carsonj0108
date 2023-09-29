@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @iJonezi
-- 👀 I’m interested in pursuing a career in Software Engineering
-- 🌱 I’m currently learning Java, JavaScript(React), HTML, CompTIA A+, and enrolled at Western Governers University for my B.S. in Software Development
-- 💞️ I’m looking to collaborate on any projects that will help me build my foundation for basics and take me further into my future goals
-- 📫 How to reach me: ...
+# Welcome To My Page!
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ijonezi.ijonezi)
 
-<!---
-carsonj0108/carsonj0108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Carson Jones, otherwise known as iJonezi!
+
+Currently, I am a student at Western Governors University and working towards completing my B.S. in Software Engineering.
+
+# 📫 How To Reach Me
+<a href="mailto:jonescarson08@gmail.com">![jonescarson08@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/carson-jones-b44399276/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://discordapp.com/users/227250348702564352/">![](https://dcbadge.vercel.app/api/shield/227250348702564352)
+
+# Skills, Experiences, and Current Projects
+<i>Experience Using</i> 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
