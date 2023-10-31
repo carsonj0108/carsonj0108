@@ -1,7 +1,7 @@
 # Welcome To My Page!
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ijonezi.ijonezi)
 
-I'm Carson Jones, otherwise known as iJonezi!
+I'm Carson, otherwise known as iJonezi!
 
 Currently, I am a student at Western Governors University and working towards completing my B.S. in Software Engineering.
 
