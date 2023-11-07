@@ -3,7 +3,9 @@
 
 I'm Carson, otherwise known as iJonezi!
 
-Currently, I am a student at Western Governors University and working towards completing my B.S. in Software Engineering.
+I am a student developer working towards his Bachelor's of Science in Software Engineering!
+
+Open to requests for Co-Developing, Start-Ups, and Open-Source Contributions!
 
 # 📫 How To Reach Me
 <a href="mailto:jonescarson08@gmail.com">![jonescarson08@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
