@@ -8,7 +8,7 @@ I am a student developer working towards his Bachelor's of Science in Software E
 Open to requests for Co-Developing, Start-Ups, and Open-Source Contributions!
 
 # 📫 How To Reach Me
-<a href="mailto:jonescarson08@gmail.com">![jonescarson08@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:ijonezisoftware@gmail.com">![ijonezisoftware@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/carson-jones-b44399276/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://discordapp.com/users/227250348702564352/">![](https://dcbadge.vercel.app/api/shield/227250348702564352)
 
