@@ -14,7 +14,9 @@ Open to requests for Co-Developing, Start-Ups, and Open-Source Contributions!
 
 ## Skills, Experiences, and Current Projects
 #### <i>Certifications</i>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ff9ba1fd-e07e-484d-8b0d-24976799f8a6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<a href="https://www.credly.com/badges/ff9ba1fd-e07e-484d-8b0d-24976799f8a6/public_url"><img src="https://raw.githubusercontent.com/iJonezi/iJonezi/main/aws-certified-cloud-practitioner.png"/></a>
+  
 #### <i>Experience Using</i> 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
