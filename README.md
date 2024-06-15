@@ -13,6 +13,8 @@ Open to requests for Co-Developing, Start-Ups, and Open-Source Contributions!
 <a href="https://discordapp.com/users/227250348702564352/">![](https://dcbadge.vercel.app/api/shield/227250348702564352)
 
 ## Skills, Experiences, and Current Projects
+#### <i>Certifications</i>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ff9ba1fd-e07e-484d-8b0d-24976799f8a6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 #### <i>Experience Using</i> 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
