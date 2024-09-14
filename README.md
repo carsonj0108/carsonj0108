@@ -16,7 +16,8 @@ Open to requests for Co-Developing, Start-Ups, and Open-Source Contributions!
 #### <i>Certifications</i>
 
 <a href="https://www.credly.com/badges/ff9ba1fd-e07e-484d-8b0d-24976799f8a6/public_url"><img src="https://raw.githubusercontent.com/iJonezi/iJonezi/main/aws-certified-cloud-practitioner.png"/></a>
-  
+<a href="https://www.credly.com/badges/ff9ba1fd-e07e-484d-8b0d-24976799f8a6/public_url"><img src="https://raw.githubusercontent.com/iJonezi/iJonezi/main/comptia-project-certification.5.png" width="156" height="156"/></a>
+
 #### <i>Experience Using</i> 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) 
